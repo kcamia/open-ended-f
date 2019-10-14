@@ -1,0 +1,15 @@
+h1 {
+  background-color: lightgray;
+}
+
+#lb {
+  background-color: lightblue;
+}
+
+#p {
+  background-color: plum;
+}
+
+tbody:hover {
+  text-decoration: underline;
+}
